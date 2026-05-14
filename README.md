@@ -1,4 +1,4 @@
-# Teste Técnico - QA Tester - 4blue
+# Teste Técnico - QA Tester
 
 ## Contexto
 
